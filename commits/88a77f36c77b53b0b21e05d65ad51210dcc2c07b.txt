@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 88a77f36c77b53b0b21e05d65ad51210dcc2c07b
+date: 2026-10-01T23:57:10+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 17: Bracket: Pin Mounts computed from parameters
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
