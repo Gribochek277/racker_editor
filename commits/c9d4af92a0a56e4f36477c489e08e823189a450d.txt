@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: c9d4af92a0a56e4f36477c489e08e823189a450d
+date: 2026-10-01T23:31:34+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 13: Assembly Instructions (Frame + Panels)
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
