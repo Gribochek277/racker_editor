@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 44fbfb2a16e981d8d3f26a600f8b80a13a47314f
+date: 2026-10-01T22:13:26+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+runbook: restore the stop-and-show-the-user rule
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
