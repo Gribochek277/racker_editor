@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 410f3e2046c3b6d92b66eaf231eabdf2e7d2d2d1
+date: 2026-10-01T20:49:58+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 14: Accessory catalog, expression evaluator, Sleeve manifest
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
