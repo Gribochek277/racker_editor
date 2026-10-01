@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 396ee29048d1c0f8bac23514a917c1f160786eff
+date: 2026-10-01T19:59:52+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 07: Rack file: New / Open / Save / Save As, dirty state
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
