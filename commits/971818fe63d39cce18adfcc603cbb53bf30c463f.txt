@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 971818fe63d39cce18adfcc603cbb53bf30c463f
+date: 2026-10-01T22:13:19+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+runbook: note the OpenSCAD render timing flake
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
