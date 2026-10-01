@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: ae38f62a10a03afbcab920303a71d4457be8df61
+date: 2026-10-01T20:36:57+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 09: Print Set export: STL per part + BOM
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
