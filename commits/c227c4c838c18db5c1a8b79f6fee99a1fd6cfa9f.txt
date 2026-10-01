@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: c227c4c838c18db5c1a8b79f6fee99a1fd6cfa9f
+date: 2026-10-02T01:13:48+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+runbook: vendor symlink is gitignored after ticket 18
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
