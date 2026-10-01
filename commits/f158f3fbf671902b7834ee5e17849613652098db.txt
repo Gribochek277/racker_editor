@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: f158f3fbf671902b7834ee5e17849613652098db
+date: 2026-10-01T19:37:17+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 03: Basic Frame — schematic 3D + BOM
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
