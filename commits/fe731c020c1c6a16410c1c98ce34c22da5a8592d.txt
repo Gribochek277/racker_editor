@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: fe731c020c1c6a16410c1c98ce34c22da5a8592d
+date: 2026-10-02T00:26:39+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 17: BOM evidence for the Bracket's shared Lock Pins
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
