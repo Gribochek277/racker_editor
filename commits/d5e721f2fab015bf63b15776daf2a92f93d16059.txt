@@ -1,0 +1,16 @@
+repository: serhii/racker_editor
+commit: d5e721f2fab015bf63b15776daf2a92f93d16059
+date: 2026-10-02T01:50:05+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Revert "Merge ticket 19: Part Editor core"
+This reverts commit 89013ba363449d040c9184d58e61d2e914dd63fa, reversing
+changes made to 65fdd80346d556cc588303b30222044f713d989a.
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
