@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 2e27d53787ac7aa22345d2c0c8ba7cf10245999f
+date: 2026-10-01T20:03:11+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 04: Real part meshes in the Frame view
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
