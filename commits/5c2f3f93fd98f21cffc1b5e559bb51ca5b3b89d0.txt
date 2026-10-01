@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 5c2f3f93fd98f21cffc1b5e559bb51ca5b3b89d0
+date: 2026-10-01T20:03:13+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 07: Rack file: New / Open / Save / Save As, dirty state
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
