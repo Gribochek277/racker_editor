@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: fb114e532af481ae05ddb79b600ea7004a8c6ecb
+date: 2026-10-01T21:26:04+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 28: release packaging: AppImage + Windows targets, --smoke flag, packaged smoke test
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
