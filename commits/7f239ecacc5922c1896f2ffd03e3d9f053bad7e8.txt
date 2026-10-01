@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 7f239ecacc5922c1896f2ffd03e3d9f053bad7e8
+date: 2026-10-01T19:49:01+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 05: Multi-row, multi-column, stepped and shifted Frames
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
