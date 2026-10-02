@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: c09be0b5939ecc9b410b17a80fea70d6052dc0d4
+date: 2026-10-02T09:10:07+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 20: Part Editor viewport — gizmo, snapping, click-to-add Pin Mounts, OpenSCAD preview
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
