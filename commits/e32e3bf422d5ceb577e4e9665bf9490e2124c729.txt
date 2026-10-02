@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: e32e3bf422d5ceb577e4e9665bf9490e2124c729
+date: 2026-10-02T18:19:51+03:00
+author: Serhii <36171312+Gribochek277@users.noreply.github.com>
+branches: main
+
+message:
+ticket 29: Print Bed overlay in the 3D viewport
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
