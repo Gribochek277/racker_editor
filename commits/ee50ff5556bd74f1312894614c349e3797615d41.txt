@@ -1,0 +1,19 @@
+repository: serhii/racker_editor
+commit: ee50ff5556bd74f1312894614c349e3797615d41
+date: 2026-10-02T17:20:24+03:00
+author: Serhii <36171312+Gribochek277@users.noreply.github.com>
+branches: main
+
+message:
+infra: raise the Vitest default test timeout to 60 s for OpenSCAD renders
+The OpenSCAD integration tests inherit Vitest's 5 s default, which the bundled
+AppImage can exceed when 16 test files render in parallel on a loaded machine
+(three consecutive red `npm run check` runs, all in geometry-render and
+bracketPlacement, both green in isolation, and a full green run at
+`--testTimeout=60000`). Timeouts are tolerance, not assertions.
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
