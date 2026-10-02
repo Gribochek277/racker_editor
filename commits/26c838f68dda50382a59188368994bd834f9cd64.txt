@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 26c838f68dda50382a59188368994bd834f9cd64
+date: 2026-10-02T10:06:21+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 23: Self-contained rack file
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
