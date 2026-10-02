@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 87129c0e7b19cbc63105c8960808d922d9fe4bef
+date: 2026-10-02T09:07:46+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 23: Self-contained rack file (embedded user Part Types)
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
