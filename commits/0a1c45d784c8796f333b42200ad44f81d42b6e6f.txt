@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 0a1c45d784c8796f333b42200ad44f81d42b6e6f
+date: 2026-10-02T08:22:51+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 24: Split long Supports
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
