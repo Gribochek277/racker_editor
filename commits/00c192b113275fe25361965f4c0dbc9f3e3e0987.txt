@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 00c192b113275fe25361965f4c0dbc9f3e3e0987
+date: 2026-10-02T07:45:28+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 16: Drag-and-snap placement
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
