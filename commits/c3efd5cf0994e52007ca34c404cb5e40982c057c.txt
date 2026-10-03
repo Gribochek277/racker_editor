@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: c3efd5cf0994e52007ca34c404cb5e40982c057c
+date: 2026-10-03T08:04:26+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 34: An Open surface suppresses the no-standard-cover warning
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
