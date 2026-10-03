@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 201ad2af14fe6dad64344e6460c0942323f7e423
+date: 2026-10-03T11:06:36+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 42: Browser e2e parity
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
