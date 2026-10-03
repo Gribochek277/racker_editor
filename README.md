@@ -1,7 +1,7 @@
 > Sanitized mirror of Forgejo `serhii/racker_editor`. Source code is not published here.
 >
 > Commit texts: `commits/`. Need the code? Email: sergeyalpatov1@gmail.com
-> Source: Forgejo `serhii/racker_editor` | Synced: 2026-10-05T02:04:07Z
+> Source: Forgejo `serhii/racker_editor` | Synced: 2026-10-06T11:48:27Z
 
 ---
 
@@ -60,6 +60,49 @@ Headless Linux (no display) runs the e2e tests under Xvfb:
 ```bash
 xvfb-run -a npm run e2e
 ```
+
+## Run in Docker / in a browser
+
+The editor also runs as a web app: one container serves the browser build and answers the
+whole `RackerApi` over HTTP, so OpenSCAD, the Part library, `settings.json` and the exported
+Print Sets all live on the server. The image is multi-stage — a builder installs the
+dependencies, downloads the pinned OpenSCAD CLI and builds the app and the web assets; the
+runtime image carries only Node, the server, the web build, the vendored `.scad` assets and
+that binary, without npm or a compiler.
+
+```bash
+docker compose up --build     # build the image and serve; `docker compose up` once it exists
+npm run deploy:docker         # the same, plus: wait for `healthy` and verify every address
+```
+
+Then open <http://localhost:18080> — or `http://<this-machine-ip>:18080` from any device on the
+same network, because the port is published on `0.0.0.0`. `docker compose down` stops it; the data
+in the volume stays.
+
+`npm run deploy:docker` (`scripts/deploy-docker.mjs`) is the one command to run after a build that
+should be live: it rebuilds the image, recreates the container, waits for the healthcheck and then
+requests `/healthz` and `/` on `127.0.0.1` **and on every non-loopback IPv4 address of the
+machine**, so a deployment that is only reachable from the machine itself fails loudly. The
+`docker-deploy` project skill (`.agents/skills/docker-deploy/SKILL.md`) tells an agent when to run
+it and how to read its output.
+
+- **Port** — the host port is `RACKER_PORT`, default **18080**; inside the container the server
+always listens on `8080`. Port 8080 is a common collision (on this machine `llama-server` owns
+it), so `RACKER_PORT=8080 docker compose up -d` restores the plain mapping, and
+`RACKER_PORT=18081 npm run deploy:docker` moves the deployment. The container restarts itself
+(`restart: unless-stopped`), so the editor is back after a reboot without any command.
+- **Volume** — everything the user owns (the user library, the user parts, `settings.json` and
+the exported Print Sets) lives in the named volume `racker-data`, mounted at `/data` inside the
+container, which is the `RACKER_DATA_DIR` of the server (§3.5, §1.9). It survives
+`docker compose down` (delete it with `docker compose down -v`). Its location on the host is
+the volume's mount point: `docker volume inspect racker-data` prints it, by default
+`/var/lib/docker/volumes/<project>_racker-data/_data`.
+- **OpenSCAD** — the CLI is **downloaded at image build time** (`npm run fetch:openscad` in the
+builder stage, §3.1). Building the image therefore needs network access; the running container
+needs none. In a browser the geometry is rendered on the server, so no plugin or local install
+is involved.
+- **Health** — `GET /healthz` answers `{"ok": true}`; the image's compose file probes it, so
+`docker compose ps` shows the container as `healthy` once the server is up.
 
 ## Bundled OpenSCAD
 
