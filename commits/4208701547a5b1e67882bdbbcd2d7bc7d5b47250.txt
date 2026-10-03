@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 4208701547a5b1e67882bdbbcd2d7bc7d5b47250
+date: 2026-10-03T10:37:42+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 41: Docker packaging
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
