@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 78481739867909d389ee12f3d9480c3f8601e459
+date: 2026-10-03T03:26:37+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 32: inner size to Row
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
