@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 2dca3e2f03f62782f6e51999e374df60c2876552
+date: 2026-10-03T10:13:27+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+infra: fix the racker-data .gitignore pattern from ticket 40
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
