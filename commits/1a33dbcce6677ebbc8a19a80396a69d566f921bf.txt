@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 1a33dbcce6677ebbc8a19a80396a69d566f921bf
+date: 2026-10-03T06:57:23+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 38: Transport-agnostic RackerApi handler core
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
