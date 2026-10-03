@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 4ae2c3e9a893db0020dd5ae27c7ad68bd3167df4
+date: 2026-10-03T04:54:29+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 37: cover divided along the frame's split seams
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
