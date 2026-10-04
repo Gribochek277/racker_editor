@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: adbdd0bcd9bd1f6c7c9e6f953830afd37673e28c
+date: 2026-10-05T02:42:03+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 45: Step the Columns of a Row one Base Unit per click
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
