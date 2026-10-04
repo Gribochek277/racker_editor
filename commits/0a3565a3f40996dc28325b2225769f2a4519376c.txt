@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 0a3565a3f40996dc28325b2225769f2a4519376c
+date: 2026-10-05T01:25:56+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+tasks: add tickets 45-53 (columns stepper, UI styling, custom models, Part Editor as Lego)
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
