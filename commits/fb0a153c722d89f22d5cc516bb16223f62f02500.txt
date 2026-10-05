@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: fb0a153c722d89f22d5cc516bb16223f62f02500
+date: 2026-10-05T05:46:06+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 54: Dimension callouts for the selection in the 3D viewport
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
