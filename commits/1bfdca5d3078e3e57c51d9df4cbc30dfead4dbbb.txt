@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 1bfdca5d3078e3e57c51d9df4cbc30dfead4dbbb
+date: 2026-10-05T11:32:40+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 59: Fit Templates in the browser edition
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
