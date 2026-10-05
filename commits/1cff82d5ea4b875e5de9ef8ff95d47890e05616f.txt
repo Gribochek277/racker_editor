@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 1cff82d5ea4b875e5de9ef8ff95d47890e05616f
+date: 2026-10-05T19:18:01+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+status: start tickets 47, 49
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
