@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: d2be76e0c4ecc77b16b31c2f032e54d95acce237
+date: 2026-10-05T05:26:11+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 50: Part Editor palette, drag-and-drop and Base Unit snapping
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
