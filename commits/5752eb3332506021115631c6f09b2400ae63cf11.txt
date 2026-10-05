@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 5752eb3332506021115631c6f09b2400ae63cf11
+date: 2026-10-05T13:12:03+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 56: the usable inside of an Opening, the allowance and the fit check
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
