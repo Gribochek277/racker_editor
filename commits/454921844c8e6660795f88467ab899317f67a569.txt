@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 454921844c8e6660795f88467ab899317f67a569
+date: 2026-10-05T05:27:15+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 54: dimension callouts for the selection in the 3D viewport
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
