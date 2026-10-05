@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: a71855d5914d0846757acfabd49939be24094564
+date: 2026-10-05T09:22:51+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 52: criterion 5 states the measured probe truth and records the enclosure decision
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
