@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 1485192340f7516589e7e9aea147af8fcf0a7784
+date: 2026-10-06T06:08:27+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 67: Save As asks for a file name in the browser
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
