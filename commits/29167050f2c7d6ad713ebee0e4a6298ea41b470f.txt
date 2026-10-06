@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: 29167050f2c7d6ad713ebee0e4a6298ea41b470f
+date: 2026-10-06T04:00:24+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Merge ticket 60: Remove "Size a Row from the inside"
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
