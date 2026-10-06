@@ -1,0 +1,14 @@
+repository: serhii/racker_editor
+commit: e2254236ebb8dfbeda30abe6dbf5287d5597fac0
+date: 2026-10-06T13:08:39+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+ticket 64: Mount holes on the Device, and in its holder
+
+---
+Source code is NOT published on GitHub.
+My code is hosted on a private server - this repository only reflects my working activity.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
